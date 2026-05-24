@@ -1,1 +1,38 @@
-jgjjg
+{
+  "team": {
+    "name_ar": "التعاون",
+    "name_en": "Al-Taawoun",
+    "league": "دوري روشن السعودي",
+    "season": "2025-2026"
+  },
+  "players": [
+    {"id": 1, "name_ar": "مايلسون تينوريو دوس سانتوس", "name_en": "Mailson Tenorio Dos Santos", "nationality_ar": "برازيلي", "nationality_en": "Brazilian", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 1},
+    {"id": 2, "name_ar": "عبدالقدوس قاعود", "name_en": "Abdulqudoos Qaoud", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 13},
+    {"id": 3, "name_ar": "محمد الضليفع", "name_en": "Mohammed Al-Dulaifeh", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 31},
+    {"id": 4, "name_ar": "محمد الدوسري", "name_en": "Mohammed Al-Dossari", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 50},
+    {"id": 5, "name_ar": "مشعل العلائلي", "name_en": "Meshal Al-Alaili", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 2},
+    {"id": 6, "name_ar": "أندري جيروتو", "name_en": "Andre Girotto", "nationality_ar": "برازيلي", "nationality_en": "Brazilian", "position_ar": "مدافع", "position_en": "Defender", "number": 3},
+    {"id": 7, "name_ar": "مصطفى سمبيني", "name_en": "Mustafa Simbini", "nationality_ar": "جزائري", "nationality_en": "Algerian", "position_ar": "مدافع", "position_en": "Defender", "number": 24},
+    {"id": 8, "name_ar": "إبراهيم الشعيل", "name_en": "Ibrahim Al-Shuail", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 26},
+    {"id": 9, "name_ar": "متعب المفرج", "name_en": "Mutaeb Al-Mufarrij", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 32},
+    {"id": 10, "name_ar": "محمد الهرايجي", "name_en": "Mohammed Al-Huraiji", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 66},
+    {"id": 11, "name_ar": "قاسم لاجامي", "name_en": "Qasem Al-Lajami", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 87},
+    {"id": 12, "name_ar": "محمد محزري", "name_en": "Mohammed Mahzari", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 5},
+    {"id": 13, "name_ar": "فلافيو دا سيلفا", "name_en": "Flavio Da Silva", "nationality_ar": "برازيلي", "nationality_en": "Brazilian", "position_ar": "وسط", "position_en": "Midfielder", "number": 8},
+    {"id": 14, "name_ar": "أنجيلو فولغيني", "name_en": "Angelo Fulgini", "nationality_ar": "فرنسي", "nationality_en": "French", "position_ar": "وسط", "position_en": "Midfielder", "number": 11},
+    {"id": 15, "name_ar": "أشرف المهديوي", "name_en": "Ashraf Al-Mahdawi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 18},
+    {"id": 16, "name_ar": "غابرييل تيكسيرا", "name_en": "Gabriel Teixeira", "nationality_ar": "برازيلي", "nationality_en": "Brazilian", "position_ar": "وسط", "position_en": "Midfielder", "number": 20},
+    {"id": 17, "name_ar": "أحمد باحسين", "name_en": "Ahmed Bahusain", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 29},
+    {"id": 18, "name_ar": "عبدالملك الحربي", "name_en": "Abdulmalik Al-Harbi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 44},
+    {"id": 19, "name_ar": "سيف رشاد محمد", "name_en": "Saif Rashad Mohammed", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 74},
+    {"id": 20, "name_ar": "عبدالإله هوساوي", "name_en": "Abdulilah Hawsawi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 77},
+    {"id": 21, "name_ar": "محمد الكويكبي", "name_en": "Mohammed Al-Kuwaykibi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 7},
+    {"id": 22, "name_ar": "عبدالفتاح آدم", "name_en": "Abdulfatah Adam", "nationality_ar": "سوداني", "nationality_en": "Sudanese", "position_ar": "مهاجم", "position_en": "Forward", "number": 9},
+    {"id": 23, "name_ar": "روجير مارتينيز", "name_en": "Roger Martinez", "nationality_ar": "كولومبي", "nationality_en": "Colombian", "position_ar": "مهاجم", "position_en": "Forward", "number": 10},
+    {"id": 24, "name_ar": "محمد القحطاني", "name_en": "Mohammed Al-Qahtani", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 15},
+    {"id": 25, "name_ar": "أنس الغامدي", "name_en": "Anas Al-Ghamdi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 33},
+    {"id": 26, "name_ar": "فهد الرشيدي", "name_en": "Fahad Al-Rashidi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 97},
+    {"id": 27, "name_ar": "موسى بارو", "name_en": "Moussa Barro", "nationality_ar": "غامبي", "nationality_en": "Gambian", "position_ar": "مهاجم", "position_en": "Forward", "number": 99}
+  ]
+}
+
