@@ -1,1 +1,35 @@
-الاالالالا
+{
+  "team": {
+    "name_ar": "النصر",
+    "name_en": "Al-Nassar",
+    "league": "دوري روشن السعودي",
+    "season": "2025-2026"
+  },
+  "players": [
+    {"id": 1, "name_ar": "نواف العقيدي", "name_en": "Nawaf Al-Aqidi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 1},
+    {"id": 2, "name_ar": "بينتو", "name_en": "Pinto", "nationality_ar": "برتغالي", "nationality_en": "Portuguese", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 24},
+    {"id": 3, "name_ar": "راغد النجار", "name_en": "Raghad Al-Najjar", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 36},
+    {"id": 4, "name_ar": "مبارك البوعينين", "name_en": "Mubarak Al-Buainain", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "حارس مرمى", "position_en": "Goalkeeper", "number": 61},
+    {"id": 5, "name_ar": "سلطان الغنام", "name_en": "Sultan Al-Ghanam", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 2},
+    {"id": 6, "name_ar": "محمد سيماكان", "name_en": "Mohamed Simakan", "nationality_ar": "فرنسي", "nationality_en": "French", "position_ar": "مدافع", "position_en": "Defender", "number": 3},
+    {"id": 7, "name_ar": "نادر الشراري", "name_en": "Nader Al-Shraari", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 4},
+    {"id": 8, "name_ar": "عبدالإله العمري", "name_en": "Abdulilah Al-Amri", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 5},
+    {"id": 9, "name_ar": "نواف بوشل", "name_en": "Nawaf Boushal", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 12},
+    {"id": 10, "name_ar": "إينيغو مارتينيز", "name_en": "Inigo Martinez", "nationality_ar": "إسباني", "nationality_en": "Spanish", "position_ar": "مدافع", "position_en": "Defender", "number": 26},
+    {"id": 11, "name_ar": "سالم النجدي", "name_en": "Salem Al-Najdi", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 83},
+    {"id": 12, "name_ar": "سعد فهد الناصر", "name_en": "Saad Fahad Al-Nasser", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مدافع", "position_en": "Defender", "number": 96},
+    {"id": 13, "name_ar": "مارسيلو بروزوفيتش", "name_en": "Marcelo Brozovic", "nationality_ar": "كرواتي", "nationality_en": "Croatian", "position_ar": "وسط", "position_en": "Midfielder", "number": 11},
+    {"id": 14, "name_ar": "عبدالله الخيبري", "name_en": "Abdullah Al-Khaibari", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 17},
+    {"id": 15, "name_ar": "علي الحسن", "name_en": "Ali Al-Hassan", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 19},
+    {"id": 16, "name_ar": "سامي النجعي", "name_en": "Sami Al-Najei", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "وسط", "position_en": "Midfielder", "number": 14},
+    {"id": 17, "name_ar": "كريستيانو رونالدو", "name_en": "Cristiano Ronaldo", "nationality_ar": "برتغالي", "nationality_en": "Portuguese", "position_ar": "مهاجم", "position_en": "Forward", "number": 7},
+    {"id": 18, "name_ar": "عبدالله الحمدان", "name_en": "Abdullah Al-Hamdan", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 9},
+    {"id": 19, "name_ar": "ساديو ماني", "name_en": "Sadio Mane", "nationality_ar": "سنغالي", "nationality_en": "Senegalese", "position_ar": "مهاجم", "position_en": "Forward", "number": 10},
+    {"id": 20, "name_ar": "أنجيلو جابرييل", "name_en": "Angelo Gabriel", "nationality_ar": "برازيلي", "nationality_en": "Brazilian", "position_ar": "مهاجم", "position_en": "Forward", "number": 20},
+    {"id": 21, "name_ar": "كينجسلي كومان", "name_en": "Kingsley Coman", "nationality_ar": "فرنسي", "nationality_en": "French", "position_ar": "مهاجم", "position_en": "Forward", "number": 21},
+    {"id": 22, "name_ar": "أيمن أحمد", "name_en": "Ayman Ahmed", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 23},
+    {"id": 23, "name_ar": "عبدالرحمن غريب", "name_en": "Abdulrahman Ghareeb", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 29},
+    {"id": 24, "name_ar": "جواو فيليكس", "name_en": "Joao Felix", "nationality_ar": "برتغالي", "nationality_en": "Portuguese", "position_ar": "مهاجم", "position_en": "Forward", "number": 79},
+    {"id": 25, "name_ar": "محمد مران", "name_en": "Mohammed Maran", "nationality_ar": "سعودي", "nationality_en": "Saudi", "position_ar": "مهاجم", "position_en": "Forward", "number": 16}
+  ]
+}
