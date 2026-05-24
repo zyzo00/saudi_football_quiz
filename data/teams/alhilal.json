@@ -18,24 +18,15 @@
     },
     {
       "id": 2,
-      "name_ar": "M. Patouillet",
-      "name_en": "M. Patouillet",
+      "name_ar": "ماتيو باتوييه",
+      "name_en": "M. Patouillet" ,
       "nationality_ar": "فرنسي",
       "nationality_en": "French",
       "position_ar": "حارس مرمى",
       "position_en": "Goalkeeper",
       "number": 25
     },
-    {
-      "id": 3,
-      "name_ar": "R. Al-Dossary",
-      "name_en": "R. Al-Dossary",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "حارس مرمى",
-      "position_en": "Goalkeeper",
-      "number": 35
-    },
+  
     {
       "id": 4,
       "name_ar": "ياسين بونو",
@@ -46,16 +37,7 @@
       "position_en": "Goalkeeper",
       "number": 37
     },
-    {
-      "id": 5,
-      "name_ar": "A. Abu Rasen",
-      "name_en": "A. Abu Rasen",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "حارس مرمى",
-      "position_en": "Goalkeeper",
-      "number": 40
-    },
+   
     {
       "id": 6,
       "name_ar": "خاليدو كوليبالي",
@@ -96,36 +78,9 @@
       "position_en": "Defender",
       "number": 30
     },
-    {
-      "id": 10,
-      "name_ar": "R. Al-Ghamdi",
-      "name_en": "R. Al-Ghamdi",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "مدافع",
-      "position_en": "Defender",
-      "number": 31
-    },
-    {
-      "id": 11,
-      "name_ar": "S. Haroun",
-      "name_en": "S. Haroun",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "مدافع",
-      "position_en": "Defender",
-      "number": 36
-    },
-    {
-      "id": 12,
-      "name_ar": "M. Al Dawood",
-      "name_en": "M. Al Dawood",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "مدافع",
-      "position_en": "Defender",
-      "number": 55
-    },
+ 
+
+    
     {
       "id": 13,
       "name_ar": "علي لاجامي",
@@ -226,36 +181,7 @@
       "position_en": "Midfielder",
       "number": 32
     },
-    {
-      "id": 23,
-      "name_ar": "M. Al Zaid",
-      "name_en": "M. Al Zaid",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "وسط",
-      "position_en": "Midfielder",
-      "number": 39
-    },
-    {
-      "id": 24,
-      "name_ar": "S. Al Muthary",
-      "name_en": "S. Al Muthary",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "وسط",
-      "position_en": "Midfielder",
-      "number": 44
-    },
-    {
-      "id": 25,
-      "name_ar": "A. Hadhood",
-      "name_en": "A. Hadhood",
-      "nationality_ar": "سعودي",
-      "nationality_en": "Saudi",
-      "position_ar": "وسط",
-      "position_en": "Midfielder",
-      "number": 74
-    },
+
     {
       "id": 26,
       "name_ar": "داروين نونيز",
@@ -308,7 +234,7 @@
     },
     {
       "id": 31,
-      "name_ar": "S. Bouabre",
+      "name_ar": "محمد قادر ميتي ",
       "name_en": "S. Bouabre",
       "nationality_ar": "فرنسي",
       "nationality_en": "French",
